@@ -1,9 +1,2 @@
 # myrepo
-
-
-hello bob
-
-hello jims
-
-
-no, really hello
+this is harder that I expected
